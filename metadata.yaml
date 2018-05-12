@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15559#Robur-der-Sieger
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2005-04-06'
 gutenberg_type: Text
